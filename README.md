@@ -2,7 +2,7 @@
 
 This is a recreated sample promotional email from the company SHEIN
 
-This email templates was tested using Email On Acid, and renderes through all major email clients such as:
+This email template was tested using Email On Acid, and renderes through all major email clients such as:
 
 * Outlook
 * Gmail
